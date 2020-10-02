@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://gradylee3.github.io/tags/index.html</loc>
+    <loc>https://gradylee3.github.io/Gallery/index.html</loc>
     
     <lastmod>2020-10-02</lastmod>
     
@@ -10,6 +10,13 @@
   
   <url>
     <loc>https://gradylee3.github.io/messageboard/index.html</loc>
+    
+    <lastmod>2020-10-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gradylee3.github.io/tags/index.html</loc>
     
     <lastmod>2020-10-02</lastmod>
     
