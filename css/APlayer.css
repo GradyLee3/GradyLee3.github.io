@@ -110,7 +110,7 @@
 	margin: 0;
 	z-index: 98;
 	pointer-events: none;
-	text-shadow: -1px -1px 0 #fff
+	#text-shadow: 1px 1px 1px black
 }
 
 .aplayer.aplayer-fixed .aplayer-lrc:after,
@@ -529,7 +529,7 @@
 
 .aplayer .aplayer-lrc p {
 	font-size: 12px;
-	color: #666;
+	color: skyblue;
 	line-height: 16px !important;
 	height: 16px !important;
 	padding: 0 !important;
