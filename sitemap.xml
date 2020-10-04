@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://gradylee3.github.io/Gallery/index.html</loc>
+    <loc>https://gradylee3.github.io/music/index.html</loc>
     
-    <lastmod>2020-10-03</lastmod>
+    <lastmod>2020-10-04</lastmod>
     
   </url>
   
   <url>
     <loc>https://gradylee3.github.io/Gallery/wallpaper.html</loc>
+    
+    <lastmod>2020-10-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gradylee3.github.io/Gallery/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -40,13 +47,6 @@
     <loc>https://gradylee3.github.io/about/index.html</loc>
     
     <lastmod>2020-10-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gradylee3.github.io/music/index.html</loc>
-    
-    <lastmod>2020-09-29</lastmod>
     
   </url>
   
