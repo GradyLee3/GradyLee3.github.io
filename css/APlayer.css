@@ -145,10 +145,12 @@
 .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
 	width: 66px !important
 }
+
 .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
 	left: -66px !important
 }
-.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover{
+
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
 	left: 0px !important
 }
 
@@ -528,10 +530,9 @@
 }
 
 .aplayer .aplayer-lrc p {
-	font-size: 16px;
-	font-family: "微软雅黑";
-	font-weight: bold;
-	color: dodgerblue;
+	font-weight: 700;
+	font-size: 15px;
+	color: #777;
 	line-height: 16px !important;
 	height: 16px !important;
 	padding: 0 !important;
@@ -542,10 +543,12 @@
 }
 
 .aplayer .aplayer-lrc p.aplayer-lrc-current {
-	opacity: 1;
-	overflow: visible;
-	height: auto !important;
-	min-height: 16px
+	   font-size: 17px;
+	    color:#1b82f1;
+	    opacity:1;
+	    overflow:visible;
+	    height:auto!important;
+	    min-height:16px
 }
 
 .aplayer .aplayer-lrc.aplayer-lrc-hide {
