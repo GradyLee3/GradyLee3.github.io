@@ -543,12 +543,12 @@
 }
 
 .aplayer .aplayer-lrc p.aplayer-lrc-current {
-	   font-size: 17px;
-	    color:#1b82f1;
-	    opacity:1;
-	    overflow:visible;
-	    height:auto!important;
-	    min-height:16px
+	font-size: 17px;
+	color: limegreen;
+	opacity: 1;
+	overflow: visible;
+	height: auto !important;
+	min-height: 16px
 }
 
 .aplayer .aplayer-lrc.aplayer-lrc-hide {
