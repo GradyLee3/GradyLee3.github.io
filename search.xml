@@ -40,10 +40,14 @@
           
           <category> Spring </category>
           
+          <category> 笔记 </category>
+          
       </categories>
       
       
         <tags>
+            
+            <tag> 笔记 </tag>
             
             <tag> Spring </tag>
             
